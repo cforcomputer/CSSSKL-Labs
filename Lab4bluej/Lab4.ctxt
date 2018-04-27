@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Lab4
+comment1.params=
+comment1.target=void\ countGrains()
+comment1.text=\ sorry\ i\ didn't\ have\ time\ to\ assemble\ the\ main.\n\ \ \ \ public\ static\ void\ main(String[]\ args)\ {\n\ \ \ \ \ \ \ \ \ \ \ countGrains();\n\ \ \ \ \ \ \ \ \ \ \ System.out.printf(countGrains());\n\ \ \ \ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ }\ /**\n\ Calculates\ the\ number\ of\ grains\ and\ prints\ out\ the\ result\ per\ lab\ instructions\n
+comment2.params=numberInput
+comment2.target=void\ powerOfTwo(int)
+comment2.text=(More\ Single\ Loop\ Exercises)\n\ (a)\ Write\ a\ method\ powerOfTwo\ that\ takes\ an\ integer\ argument\ and\ prints\ to\ the\ console\ what\ power\ of\ 2\n\ the\ given\ number\ is.\ If\ the\ number\ is\ not\ a\ power\ of\ 2,\ then\ simply\ print\ a\ message\ that\ says\ so.\ For\n\ example,\n\ powerOfTwo(64);\ //should\ print\:\ "64\ is\ 2\ to\ the\ power\ of\ 6"\n\ powerOfTwo(73);\ //should\ print\:\ "73\ is\ not\ a\ power\ of\ 2"\ \n\ Note\:\nyou\ are\ not\ allowed\ to\ use\ any\ library\ functions\!
+comment3.params=number
+comment3.target=void\ numBackward(int)
+comment3.text=\n\ Reverses\ the\ digits\ of\ a\ given\ integer,\ i.e.\ 12345\ would\ become\ 54321\ per\ lab\ instructions\n\n\ @param\ number\n
+comment4.params=
+comment4.target=void\ straightLine()
+comment4.text=\n\ Produces\ and\ displays\ a\ straight\ line\ using\ asterisks\ per\ lab\ instructions\n
+comment5.params=
+comment5.target=void\ boxMaker()
+comment5.text=\n\ void\ method\ that\ asks\ the\ user\ for\ an\ integer\ x\ (using\ Scanner),\ and\ prints\ box\ using\ asterisks\n\ refer\ to\ detailed\ instructions\ in\ lab\ description\ part\ 6\n
+comment6.params=number
+comment6.target=void\ shape7a(int)
+comment6.text=\n\ \ void\ mathod\ to\ print\ a\ shape\ that\ is\ a\ triangular\ pattern\ with\ sides\ of\ 6\ asterisks\n\ \ refer\ to\ detailed\ instructions\ in\ lab\ description\ part\ 7a\n
+comment7.params=number
+comment7.target=void\ shape7b(int)
+comment7.text=\n\ void\ method\ to\ print\ a\ shape\ that\ is\ an\ "X"\ pattern\ with\ arms\ of\ 3\ asterisks\ each.\n\ refer\ to\ detailed\ instructions\ in\ lab\ description\ part\ 7b\n
+numComments=8

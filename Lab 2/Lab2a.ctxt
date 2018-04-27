@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Lab2a
+comment0.text=\n\ Conversions\ related\ to\ temperatures\ and\ times\n\ \n\ @author\ Patrick\ O'Brien\n\ @version\ 1.0\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=fah
+comment2.target=double\ kelvins(double)
+comment2.text=\n\ Part\ 2\ -\ kelvins\ method\ \ -\ takes\ as\ argument\ a\ double\ corresponding\ to\n\ degrees\ Fahrenheit,\ then\ returns\ a\ double\ corresponding\ to\ the\n\ same\ input\ temperature\ in\ degrees\ Kelvin.\n
+comment3.params=fah\ kel
+comment3.target=void\ temperaturePrinter(double,\ double)
+comment3.text=\n\ Part\ 2\ -\ temperaturePrinter\ method\ -\ takes\ as\ arguments\ two\ doubles.\ The\n\ first\ is\ a\ temperature\ in\ degrees\ Fahrenheit\ and\ the\ second\ is\ the\n\ same\ temperature\ in\ degrees\ Kelvin.\ This\ method\ is\ void\ and\ it\ \n\ prints\ to\ the\ screen\:\n\ \n\ <arg1>\ F\ corresponds\ to\ <arg2>\ K\n
+comment4.params=inputseconds
+comment4.target=void\ secondTime(int)
+comment4.text=\n\ Part\ 3\ -\ secondTime\ method\ -\ convert\ total\ number\ of\ seconds\ into\ hours,\n\ minutes\ and\ seconds,\ and\ print\ them\ out.\n
+comment5.params=hours\ minutes\ seconds
+comment5.target=int\ inSeconds(int,\ int,\ int)
+comment5.text=\n\ Part\ 3\ -\ inSeconds\ method\ -\ takes\ as\ arguments\ three\ integers\:\ hours,\ \n\ minutes\ and\ seconds,\ computes\ the\ exact\ time\ in\ seconds,\ then\ returns\ \n\ the\ total\ number\ of\ seconds\ and\ prints\ a\ message\ to\ the\ screen.\n
+numComments=6
