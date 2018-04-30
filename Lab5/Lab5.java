@@ -33,31 +33,37 @@ public class Lab5 {
     //Day N: $X + ($1 + Y) >= $1000000
      public static void getRichQuick() {
         // Declare your variables here and implement your logic
-        double moneyTotal = 0, y = 0, moneyAdd = 0;
+        double moneyTotal = 1;
         int day = 1;
         
         while (moneyTotal < 1000000)
-        {
-            for (moneyTotal = 0; moneyTotal > 100; moneyTotal++)
+        {   
             {
-                {
-                    System.out.printf("Day " + day + ": ($1 + " + moneyAdd + ") >= $" + moneyTotal);
-                }
-            }
-            
-        
-        
+                day++;
+                moneyTotal += 1 + (moneyTotal/2);
+                System.out.println("Day " + day + ": ($1 + " + moneyTotal/5 + ") >= $" + moneyTotal);
+            }          
         }
     }
     // Part 2 
     public static double eTaylor( double x ) {
         double taylorNumber = 0.0;
         // Your logic goes here
-        
+        while (taylorNumber > 0.0000001)
+        {
+            for(int i = 1; i <= taylorNumber; i++)
+            {
+            
+            }    
+        }
         return taylorNumber;
     }
-      
-      
+    
+    public static double x() {
+        
+        
+        return x();
+    }
       
     // Part 3
     /**
