@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GetRich
+comment0.text=\n\ Palindrome\ class\n\n\ @author\ Patrick\ O'Brien\n\ @version\ 1.0\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ getRichQuick()
+numComments=3

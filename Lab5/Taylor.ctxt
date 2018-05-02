@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Taylor
+comment1.params=thisTerm\ x\ count
+comment1.target=double\ getNext(double,\ double,\ int)
+comment2.params=x
+comment2.target=double\ eTaylor(double)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
